@@ -183,4 +183,3 @@ Le **notebook de brouillon** documente toutes les expériences menées :
 
 ## Licence
 
-Projet académique — Dataset sous licence Kaggle (usage non-commercial).
